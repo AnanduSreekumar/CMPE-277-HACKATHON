@@ -1,12 +1,14 @@
 # CMPE-277-HACKATHON
-## Team Name: 
-BlackLotus
+## Team Name: BlackLotus
 ## Team Members:
 - Anandu Sree kumar
 - Jeswanth
 - Lekhana
 ## Problem Statement:
 In the face of increasing global food insecurity, exacerbated by macroeconomic factors such as inflation, income inequality, and market volatility, there is a pressing need for innovative technological solutions to mitigate these challenges. Despite numerous efforts, food security remains a critical issue affecting millions worldwide. To address this, our project aims to develop a mobile application that integrates macroeconomic research to offer actionable insights and tools for individuals, communities, and policymakers to effectively combat food insecurity.
+
+## Open Assistant Id:
+asst_96vua9P3VYZjApyyFc6GXS2u  
 
 ## Key Challenges:
 Macro-Micro Disconnect: There exists a gap between macroeconomic indicators and their real-world implications on food security at the household and community levels. Bridging this gap is crucial for developing targeted interventions.
@@ -21,4 +23,5 @@ Technological Integration: Integrating macroeconomic research into user-friendly
 ## Prompts and Text Files:
 Economic Sustainability Statements ,Social Sustainability Statements,Social Security ,Rural Development ,How Farmers benefit from the budget? ,Economic Conditions of State and Central Government, How poor and marginalized communities benefit from the budget? , Poverty Reduction Strategies, How women and poor children benefit from the Budget?,Poverty Factors, Country Balance of Payments ,Weather & Extreme Weather Events ,Recessions and Tariffs - `prompts.txt`
 
-## Demo Screenshots:
+## Zip File
+https://drive.google.com/file/d/1oIJpP_EZ3Yux1ED0TX7v_nVjLdMmrEix/view?usp=sharing
