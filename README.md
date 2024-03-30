@@ -3,7 +3,7 @@
 BlackLotus
 ## Team Members:
 - Anandu Sree kumar
-- Jaswanth
+- Jeswanth
 - Lekhana
 ## Problem Statement:
 In the face of increasing global food insecurity, exacerbated by macroeconomic factors such as inflation, income inequality, and market volatility, there is a pressing need for innovative technological solutions to mitigate these challenges. Despite numerous efforts, food security remains a critical issue affecting millions worldwide. To address this, our project aims to develop a mobile application that integrates macroeconomic research to offer actionable insights and tools for individuals, communities, and policymakers to effectively combat food insecurity.
